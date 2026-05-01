@@ -1,0 +1,16 @@
+{
+  "site_name": "夜轻探针",
+  "site_logo": "https://list.yppp.net/d/cos/yeqing.jpeg",
+  "theme_name": "default",
+  "theme_repo": "",
+  "theme_config": {
+    "footer": "Powered by NodeGet"
+  },
+  "site_tokens": [
+    {
+      "name": "master node",
+      "backend_url": "wss://node.oicdn.com",
+      "token": "vuLjvpJ4gEils1AP:ozlKdWf0sI9D7mSodO3tZQXCqTQOFjby"
+    }
+  ]
+}
